@@ -1,4 +1,4 @@
-# STM32 F042F6Px
+# STM32 F042F6Px (Work In Progress!!)
 ARM® Cortex®-M0, 32bit, TSOC-20.<br />
 Features: 48 MHz MAX, 32K Flash, 6K RAM, `USART`, `SPI`, `USB FS`, `CAN`, `I2C`.<br/>
 Board Size: 22.86 mm * 32.05 mm.<br />
