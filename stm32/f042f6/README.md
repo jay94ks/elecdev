@@ -4,6 +4,9 @@ Features: 48 MHz MAX, 32K Flash, 6K RAM, `USART`, `SPI`, `USB FS`, `CAN`, `I2C`.
 Board Size: 22.86 mm * 32.05 mm.<br />
 Price: about 5,500 KRW, 4.15 USD.
 
+### Gerber files.
+Download: https://github.com/jay94ks/elecdev/blob/main/stm32/f042f6/STM32F042F6Px_v1.zip
+
 ### Components.
 * 0603 (1608) 0 resistor x2.
 * 0603 (1608) 1k resistor x1.
