@@ -4,6 +4,9 @@ Features: 64 MHz MAX, 32K Flash, 8K RAM, `USART`, `SPI`,  `I2C`.<br/>
 Board Size: 17.78 mm * 25.4 mm.<br />
 Price: about 2,800 KRW, 2.11 USD.
 
+### Gerber files.
+Download: https://github.com/jay94ks/elecdev/blob/main/stm32/g030f6/STM32G030F6P6_v1.zip
+
 ### Components.
 * 0603 (1608) 330 resistor x1.
 * 0603 (1608) 10k resistor x2.
