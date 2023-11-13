@@ -1,0 +1,10 @@
+
+stm32/f042f6/STM32F042F6P6-backups
+stm32/g030f6/STM32G030F6P6-backups
+
+*.lck
+*/**/fp-info-cache
+
+*.gbr
+*.kicad_prl
+
