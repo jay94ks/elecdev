@@ -9,8 +9,9 @@ Board Size: 17.78 mm * 25.4 mm.<br />
 * 0603 (1608) 100k resistor x1.
 * 0603 (1608) 100nF ceramic capacitor x2.
 * 0603 (1608) 10uF ceramic capacitor x3.
-* SOD-323 1N5819WS Schottky barrier diode x1.
 * 0603 (1608) Blue LED x1.
+* SOD-323 1N5819WS Schottky barrier diode x1.
+* SOT-23-5 XC622B331MR Linear regulator x1.
 * 2.54mm 01x10-Pin Header x2.
 
 ## Schematic.
