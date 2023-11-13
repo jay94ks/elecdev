@@ -1,5 +1,8 @@
 # Custom Development Board Projects.
 
+## MISC
+* USB-C breakout: https://github.com/jay94ks/elecdev/tree/main/misc/USB_C_BREAKOUT
+
 ## STM32
 ### G030F6
 See this directory: https://github.com/jay94ks/elecdev/tree/main/stm32/g030f6 <br />
