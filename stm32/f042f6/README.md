@@ -25,6 +25,14 @@ Board Size: 22.86 mm * 32.05 mm.<br />
 * SPST Push button x1.
 * 16-Pin Type-C connector.
 
+0603 (1608) ceramic capacitor kits, 320 pcs: https://ko.aliexpress.com/item/1005002907508304.html<br />
+0603 (1608) resistor kits, 660 pcs: https://ko.aliexpress.com/item/1005004332763831.html<br />
+0603 (1608) LED, 100 pcs: https://ko.aliexpress.com/item/1005003083812109.html<br />
+3225 8 MHz, 20pF SMD 4-Pin crystal, 10 pcs: https://ko.aliexpress.com/item/1005005467715234.html<br />
+SOD-323 1N5819WS Schottky barrier diode, 20 pcs: https://www.eleparts.co.kr/goods/view?no=9938480<br />
+SOT-23-5 XC622B331MR Linear regulator: https://ko.aliexpress.com/item/1005006119561332.html<br />
+STM32F042F6P6, 1 pcs: https://www.eleparts.co.kr/goods/view?no=3206408<br />
+
 ## Schematic.
 ![STM32F042F6Px](https://github.com/jay94ks/elecdev/blob/main/stm32/f042f6/v1/STM32F042F6Px.png)
 
