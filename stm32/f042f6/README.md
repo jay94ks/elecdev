@@ -34,6 +34,7 @@ SOT-23-5 XC622B331MR Linear regulator: https://ko.aliexpress.com/item/1005006119
 STM32F042F6P6, 1 pcs: https://www.eleparts.co.kr/goods/view?no=3206408<br />
 
 ## Schematic.
+* C3, C4: 8pF -> 32pF. (IMPORTANT)
 ![STM32F042F6Px](https://github.com/jay94ks/elecdev/blob/main/stm32/f042f6/v1/STM32F042F6Px.png)
 
 ## Board Rendering.
