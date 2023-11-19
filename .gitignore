@@ -1,5 +1,6 @@
 
 stm32/f042f6/STM32F042F6P6-backups
+stm32/f070f6/STM32F070F6P6-backups
 stm32/g030f6/STM32G030F6P6-backups
 
 misc/USB_C_BREAKOUT/USB_C_BREAKOUT-backups
@@ -9,4 +10,3 @@ misc/USB_C_BREAKOUT/USB_C_BREAKOUT-backups
 
 *.gbr
 *.kicad_prl
-
