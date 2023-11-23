@@ -1,7 +1,7 @@
-# STM32 F042F6Px (Work In Progress!!)
+# STM32 F042F6Px
 ARM® Cortex®-M0, 32bit, TSOC-20.<br />
 Features: 48 MHz MAX, 32K Flash, 6K RAM, `USART`, `SPI`, `USB FS`, `CAN`, `I2C`.<br/>
-Board Size: 22.86 mm * 32.05 mm.<br />
+Board Size: 22.86 mm * 25.45 mm.<br />
 Price: about 5,500 KRW, 4.15 USD.
 
 ### Gerber files.
