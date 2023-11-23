@@ -4,6 +4,12 @@
 * USB-C breakout: https://github.com/jay94ks/elecdev/tree/main/misc/USB_C_BREAKOUT
 
 ## STM32
+I love STMicroelectronics's `TSSOP-20` and `TSOP-8` (G03xJ6Mx).
+It is small, has few pins, is easy to use by plugging it into a breadboard,
+and has a simple peripheral circuit. I even like the size of the flash memory and the size of the built-in RAM. 
+Additionally, they fit well on any board that can be made easily, and there is little need to configure an external clock circuit.
+I hope more chips will be released in `TSSOP-20`, `TSSOP-16` or `TSOP-8` versions. And it would be better if they could have USB DP/DM pins.
+
 ### G030F6
 See this directory: https://github.com/jay94ks/elecdev/tree/main/stm32/g030f6 <br />
 ARM® Cortex®-M0, 32bit, TSOC-20.<br />
