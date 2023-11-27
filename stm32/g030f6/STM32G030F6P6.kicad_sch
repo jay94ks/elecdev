@@ -1910,7 +1910,7 @@
     (property "Reference" "R4" (at 67.31 48.26 90)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Value" "10k" (at 67.31 50.8 90)
+    (property "Value" "1k" (at 67.31 50.8 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Footprint" "Resistor_SMD:R_0603_1608Metric" (at 67.31 56.388 90)
