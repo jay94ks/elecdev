@@ -11,7 +11,7 @@ Download: https://github.com/jay94ks/elecdev/blob/main/stm32/g030f6/STM32G030F6P
 ![STM32G030F6Px](https://github.com/jay94ks/elecdev/blob/main/stm32/g030f6/v1/STM32G030F6Px.png)
 
 ## Board Rendering.
-![STM32G030F6Px](https://github.com/jay94ks/elecdev/blob/main/stm32/g030f6/v1/STM32G030F6Px_WRK.png)
+![STM32G030F6Px](https://github.com/jay94ks/elecdev/blob/main/stm32/g030f6/v1/STM32G030F6Px_WRK.jpg)
 ![STM32G030F6Px](https://github.com/jay94ks/elecdev/blob/main/stm32/g030f6/v1/STM32G030F6Px_BRD.png)
 
 ## Artwork.
