@@ -12,6 +12,7 @@ Download: https://github.com/jay94ks/elecdev/blob/main/stm32/f042f6/STM32F042F6P
 ![STM32F042F6Px](https://github.com/jay94ks/elecdev/blob/main/stm32/f042f6/v1/STM32F042F6Px.png)
 
 ## Board Rendering.
+![STM32F042F6Px](https://github.com/jay94ks/elecdev/blob/main/stm32/f042f6/v1/STM32F042F6Px_WRK.png)
 ![STM32F042F6Px](https://github.com/jay94ks/elecdev/blob/main/stm32/f042f6/v1/STM32F042F6Px_BRD.png)
 
 ## Artwork.
