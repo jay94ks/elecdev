@@ -3,6 +3,12 @@
 ## MISC
 * USB-C breakout: https://github.com/jay94ks/elecdev/tree/main/misc/USB_C_BREAKOUT
 
+## Raspberry-Pi Silicon
+### RP2040
+See this directory: https://github.com/jay94ks/elecdev/tree/main/rp2040 <br />
+ARM® Cortex®-M0+ Dual-core, 32bit, QFN-56.<br />
+Features: 133 MHz max, 256kB SRAM, `UART` x2, `SPI` x2, `I2C` x2, `PWM` x 16 channel.<br/>
+
 ## STM32
 I love STMicroelectronics's `TSSOP-20` and `TSOP-8` (G03xJ6Mx).
 It is small, has few pins, is easy to use by plugging it into a breadboard,
