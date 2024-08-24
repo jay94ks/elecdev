@@ -1,4 +1,5 @@
 # Custom Development Board Projects.
+This project is for making custom development boards with minimal circuits to power MCUs, including programming them.
 
 ## MISC
 * USB-C breakout: https://github.com/jay94ks/elecdev/tree/main/misc/USB_C_BREAKOUT
@@ -45,6 +46,9 @@ See this directory: https://github.com/jay94ks/elecdev/tree/main/wch/ch32v003f4p
 
 ### CH32V003F4U6
 See this directory: https://github.com/jay94ks/elecdev/tree/main/wch/ch32v003f4u6 <br />
+
+### CH32X033F6P6
+TODO: I bought this chip few weeks ago, I'll design this one soon. (100 pcs)
 
 ### CH32X035G8U6
 See this directory:  https://github.com/jay94ks/elecdev/tree/main/wch/ch32x035g8u6 <br />
