@@ -37,6 +37,9 @@ Board Size: 22.86 mm * 32.05 mm.<br />
 Price: about 5,500 KRW, 4.15 USD.<br/>
 ![STM32G030F6Px](https://github.com/jay94ks/elecdev/blob/main/stm32/f042f6/v1/STM32F042F6Px_BRD.png)
 
+### F107RBT6
+TODO: I bought this chip few days ago, I'll design this one soon. (10 pcs)
+
 ### G030K8
 See this directory: https://github.com/jay94ks/elecdev/tree/main/stm32/g030k8 <br />
 
