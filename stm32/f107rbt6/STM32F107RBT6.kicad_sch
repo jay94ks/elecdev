@@ -1,0 +1,203 @@
+(kicad_sch
+	(version 20231120)
+	(generator "eeschema")
+	(generator_version "8.0")
+	(uuid "99d13c9e-77c4-4737-9e9f-7cb0035a728f")
+	(paper "A4")
+	(lib_symbols)
+	(sheet
+		(at 45.72 17.78)
+		(size 26.67 26.67)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "458fbd97-cc69-418f-9cfe-96fa79d6b31d")
+		(property "Sheetname" "LAN8720AI"
+			(at 45.72 17.0684 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "LAN8720AI.kicad_sch"
+			(at 45.72 45.0346 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "STM32F107RBT6"
+				(path "/99d13c9e-77c4-4737-9e9f-7cb0035a728f"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 99.06 17.78)
+		(size 26.67 26.67)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "57c698bb-472b-4bc7-8c5d-8770dc908d09")
+		(property "Sheetname" "F107RBT6"
+			(at 99.06 17.0684 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "F107RBT6.kicad_sch"
+			(at 99.06 45.0346 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "STM32F107RBT6"
+				(path "/99d13c9e-77c4-4737-9e9f-7cb0035a728f"
+					(page "5")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 17.78 17.78)
+		(size 27.94 26.67)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "7b73686a-48ab-40f6-b0d0-cb5999735238")
+		(property "Sheetname" "USB"
+			(at 17.78 17.0684 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "USB.kicad_sch"
+			(at 17.78 45.0346 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "STM32F107RBT6"
+				(path "/99d13c9e-77c4-4737-9e9f-7cb0035a728f"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 125.73 17.78)
+		(size 25.4 26.67)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "daef845f-bb83-421b-b36a-a8bf779322f9")
+		(property "Sheetname" "Pinouts"
+			(at 125.73 17.0684 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Pinouts.kicad_sch"
+			(at 125.73 45.0346 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "STM32F107RBT6"
+				(path "/99d13c9e-77c4-4737-9e9f-7cb0035a728f"
+					(page "6")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 72.39 17.78)
+		(size 26.67 26.67)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "f221e7f2-4c65-4864-8533-a9149d33d00d")
+		(property "Sheetname" "PoE"
+			(at 72.39 17.0684 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "PoE.kicad_sch"
+			(at 72.39 45.0346 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "STM32F107RBT6"
+				(path "/99d13c9e-77c4-4737-9e9f-7cb0035a728f"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+)
